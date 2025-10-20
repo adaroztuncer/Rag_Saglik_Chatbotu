@@ -1,0 +1,12 @@
+
+google-generativeai 
+huggingface_hub 
+datasets 
+pandas 
+gradio 
+sentence-transformers 
+langchain 
+langchain-core 
+langchain-chroma 
+langchain_google_genai 
+langchain_text_splitters
