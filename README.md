@@ -205,8 +205,6 @@ https://huggingface.co/spaces/adaroztuncer/health-chatbot
 
 
 
-```
-MIT License © 2025 Adar Öztuncer
-```
+
 
 
