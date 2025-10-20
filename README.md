@@ -113,18 +113,13 @@ Proje, Hugging Face üzerindeki `umutertugrul/turkish-hospital-medical-articles`
    dataset = load_dataset("umutertugrul/turkish-hospital-medical-articles")
    ```
 
-6. **Vektör Veritabanını Oluşturun**:
-   ```bash
-   python build_index.py
-   ```
-
-7. **Uygulamayı Başlatın**:
+6. **Uygulamayı Başlatın**:
    ```bash
    python app.py
    ```
 
 ### Google Colab'da Çalıştırma
-1. `.ipynb` dosyasını Google Colab'e yükleyin.
+1. `rag_chatbot.ipynb` dosyasını Google Colab'e yükleyin.
 2. API anahtarlarınızı Colab'in "Secrets" bölümüne ekleyin.
 3. Google Drive'ınızı bağlayarak veri ve vektör veritabanını kaydedin.
 4. Notebook hücrelerini sırayla çalıştırın.
@@ -202,6 +197,7 @@ https://huggingface.co/spaces/adaroztuncer/health-chatbot
 
 
 ---
+
 
 
 
