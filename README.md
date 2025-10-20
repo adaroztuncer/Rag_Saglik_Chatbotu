@@ -191,7 +191,6 @@ Proje, Hugging Face üzerindeki `umutertugrul/turkish-hospital-medical-articles`
 ## 🧠 Geliştirici Notları
 
 - `app.py` içindeki **MODEL_CONFIG** ayarları, yanıt kalitesini optimize etmek için kullanılabilir.
-- Chroma veritabanı, `build_index.py` çalıştırılmadan önce oluşturulmalıdır.
 - Hugging Face Spaces'de, `app_file` olarak `app.py` belirtilmelidir.
 
 ---
@@ -207,3 +206,4 @@ https://huggingface.co/spaces/adaroztuncer/health-chatbot
 ```
 MIT License © 2025 Adar Öztuncer
 ```
+
