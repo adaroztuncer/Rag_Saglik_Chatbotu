@@ -175,6 +175,8 @@ Proje, Hugging Face üzerindeki `umutertugrul/turkish-hospital-medical-articles`
   ├── .env                       # API anahtarları (sembolik)
   ├── README.md                  # Proje dokümantasyonu
   └── images/                    # Proje görselleri
+        └── ekran_goruntusu_1.png
+        └── ekran_goruntusu_2.png                
   ```
 
 ---
@@ -206,4 +208,5 @@ https://huggingface.co/spaces/adaroztuncer/health-chatbot
 ```
 MIT License © 2025 Adar Öztuncer
 ```
+
 
